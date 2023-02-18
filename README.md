@@ -14,7 +14,7 @@ I made this progect to practise:
 ## Usage 
 
 Please take a look at this project at my  
-[Github pages](https://www.example.com).
+[Github pages](https://astarem.github.io/semantic-html-week1-challenge-asta/).
 
 ## Tests
 
